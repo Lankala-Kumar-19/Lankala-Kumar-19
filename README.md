@@ -10,6 +10,16 @@
 
 ---
 
+## 🌐 Profiles & Links
+
+- 💼 Portfolio: https://kumarportfolio-rho.vercel.app/
+- 💻 GitHub: https://github.com/Lankala-Kumar-19
+- 🔗 LinkedIn: https://www.linkedin.com/in/lankala-durga-prasanna-kumar-2ba992269/
+- 🧩 LeetCode: https://leetcode.com/u/twilightReaper/
+- 📧 Email: lankalakumar08@gmail.com
+
+---
+
 ## 👨‍💻 Professional Summary
 
 Java Backend Developer with a strong foundation in **Spring Boot, Spring Security, JWT, and MySQL**, focused on building **secure, scalable, and maintainable backend systems**.  
@@ -85,15 +95,6 @@ Actively strengthening **Data Structures & Algorithms using Java** and consisten
 
 - 🐧 **RHCSA – Red Hat Certified System Administrator**
 
----
-
-## 🌐 Profiles & Links
-
-- 💼 Portfolio: https://kumarportfolio-rho.vercel.app/
-- 💻 GitHub: https://github.com/Lankala-Kumar-19
-- 🔗 LinkedIn: https://www.linkedin.com/in/lankala-durga-prasanna-kumar-2ba992269/
-- 🧩 LeetCode: https://leetcode.com/u/twilightReaper/
-- 📧 Email: lankalakumar08@gmail.com
 
 ---
 
